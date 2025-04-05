@@ -1,3 +1,4 @@
+# Galaxy
 This is mainly a project that I was working on in my free time.
 Mainly the goal was to learn go and at the same time I was also looking into post quantum crypto so things kind of just blended and I ended up accidentally writing some golang to implement an alternaitve to rsa.
 The algorithms I used were ML-KEM-1024 or commonly known as Kyber and I used AES-256 for post key exchange communication. Both of these algorithms should be resilient to Shor's algorithm and in an ideal scenario would already be widely used because of store now decrypt later attacks.
